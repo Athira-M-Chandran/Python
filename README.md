@@ -3,7 +3,9 @@
 First Project - 
 #### Hangman game
 --------------------
-Hangman is a guessing game. The player will tries to guess a word picked by the computer, by suggesting letters within a certain number of guesses (Created using functions, loops, break statement)
+Hangman is a guessing game.<br>
+The player will tries to guess a word picked by the computer, by suggesting letters within a certain number of guesses <br>
+(Created using functions, loops, break statement)
 
 Second Project -
 #### Minion game 
