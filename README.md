@@ -2,11 +2,13 @@
 ### Python projects
 First Project - 
 #### Hangman game
+--------------------
 Hangman is a guessing game. The player will tries to guess a word picked by the computer, by suggesting letters within a certain number of guesses (Created using functions, loops, break statement)
 
 Second Project -
-#### Minion game (Question from Hacker Rank)
-
+#### Minion game 
+-----------------
+(Question from Hacker Rank)
 Kevin and Stuart want to play the 'The Minion Game'.
 
 Game Rules
