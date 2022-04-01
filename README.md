@@ -29,3 +29,8 @@ For Example:<br>
 String S = BANANA<br>
 Kevin's vowel beginning word = ANA<br>
 Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points.
+
+#### Coffee Machine 
+-----------------------
+
+Program requirements are there in the pdf file above.
